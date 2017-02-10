@@ -9,5 +9,5 @@ Description of the project is available at my paper
 # http://www.sersc.org/journals/IJHIT/vol9_no4_2016/18.pdf
  (c) Copyright 2016 Enersys Energy Solutions, All rights reserved
 The Project is fully tested, optimized and working sucessfully since 2012 August. 
-If you have questions regarding this project or code please mail to dk.appana@gmail.com
+If you have questions regarding this project or code you can freely drop your queries to me at dk.appana@gmail.com
 If code is useful in your work and if you are using the code please cite the above mentioned paper.
